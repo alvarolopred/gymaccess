@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@azure/cognitiveservices-face": "^4.2.0",
+    "@azure/ms-rest-js": "^2.6.0",
+    "mssql": "^9.1.1"
+  }
+}
